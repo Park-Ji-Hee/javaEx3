@@ -11,7 +11,7 @@ public class Ex01 {
 		
 		// Number a = t.get();
 		// Integer a = t.get();	// 컴파일 오류
-		// Integer a = (Integer)t.get();		
+		// Integer a = (Integer)t.get(); // down casting		 
 		
 		// Number a = n;	// up casting
 		
